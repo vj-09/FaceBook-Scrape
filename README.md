@@ -14,7 +14,7 @@ Fbtxtscraper is a tool for scraping your personal Facebook messages with your lo
 
 ## Installation
    Requirements are python3 (python2 is also supported), scrapy and other dependencies libraries (twisted, libxml2 etc.).
-   [Installazion guide:](https://doc.scrapy.org/en/latest/intro/install.html)
+   [Installazion guide](https://doc.scrapy.org/en/latest/intro/install.html) for scrapy.
     
     
         
@@ -29,7 +29,7 @@ This will give last 10 recent conversations, from that select the conversation t
 ## Future updates
    To scrape every conversation, Then public post's reactions and comments with replies.
         
-New to scraping ??? [Check](https://medium.com/@athithyavijay/stepping-into-web-scraping-and-available-tools-11a0f9b8876a)
+New to scraping ??? [Check Here](https://medium.com/@athithyavijay/stepping-into-web-scraping-and-available-tools-11a0f9b8876a)
 for intro and available tools across languages.  
 
 
