@@ -1,5 +1,5 @@
 # FaceBook-Scrape
-Fbtxtscraper is a tool for scraping your personal Facebook messages with your loved ones, written in python, based on the Scrapy framework.
+Fbtxtscraper is a tool for scraping your personal Facebook conversations, written in python, based on the Scrapy framework.
  
 ## Introduction
   Fbtxtscraper is based on Python Web Scraping framework Scrapy. For simple beginner understanding items, pipeline, middleware were not used, contents are directly written to csv. From this, we can scrape out our facebook conversation with our friends, and store it structured.
